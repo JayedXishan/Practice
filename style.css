@@ -1,0 +1,38 @@
+*{
+    margin:0;
+}
+
+.bgcontainer{
+    background-image: url('img/bg.jpg');
+    height: 300px;
+    padding: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+}
+.bgElement{
+    width: 50%;
+    padding-left: 40px;
+    color: white;
+}
+h2{
+    color: black;
+    margin-bottom: 10px;
+}
+.baxshoContainer{
+    height: 500px;
+    background-color: rgb(195, 246, 247);
+    padding-left: 15%;
+}
+.baxsho{
+    display: inline-block;
+    height:300px;
+    width: 250px;
+    margin: 30px;
+    padding: 20px;
+    padding-top: 50px;
+    text-align: justify;
+    background-color: rgb(75, 5, 141);
+    box-shadow: 5px 5px 10px rgb(55, 55, 55);
+    border-radius:30px;
+}
